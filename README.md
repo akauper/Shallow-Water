@@ -2,6 +2,8 @@
 
 ![UnityShallowWater](https://raw.githubusercontent.com/akauper/Shallow-Water/master/example.gif)
 
+Full Video: https://www.youtube.com/watch?v=_gQdxe9TP1g
+
 
 
 Shader code for shallow water equation referenced from:
