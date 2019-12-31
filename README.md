@@ -15,4 +15,4 @@ http://polycu.be/edit/?h=W2L7zN
 And adapted to unity using CustomRenderTexture as a double buffer.
 
 
-Amplify Shader Function is included to incorporate Shallow Water into other shaders. Requires Amplify Shader Editor to use of course.
+Amplify Shader Function is included to incorporate Shallow Water into other shaders.
