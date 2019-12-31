@@ -1,5 +1,9 @@
 # Shallow-Water
 
+![UnityShallowWater](https://raw.githubusercontent.com/akauper/Shallow-Water/master/example.gif)
+
+
+
 Shader code for shallow water equation referenced from:
 
 
